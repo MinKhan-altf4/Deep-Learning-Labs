@@ -17,3 +17,4 @@
 **Submission:**
 
 [📄 Word Document](./LT01/DL_LT01_PhamTranMinhKhang_3123411143_DCT123C3_DocPaper.docx)  
+Completion time: 13-09-2026
