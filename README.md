@@ -1,79 +1,95 @@
-# Deep Learning Labs
+# Deep Learning
 
-> Personal repository for Deep Learning coursework, experiments, and projects.
-
----
-
-## 👨‍💻 Author
-
-**Minh Khang**
-
-Information Technology Student  
-Sai Gon University
+> Personal learning repository for the Deep Learning course.
 
 ---
 
-## 📚 Course
+## 👨‍💻 Student
 
-**Course:** Deep Learning  
-**Academic Year:** 2026
-
-This repository contains my coursework, implementations,
-experiments, and projects developed throughout the course.
-
----
-
-## 🧠 Topics
-
-- Neural Networks
-- Forward Propagation
-- Backpropagation
-- Gradient Descent
-- Convolutional Neural Networks
-- Recurrent Neural Networks
-- Transfer Learning
-- Model Evaluation
-- Hyperparameter Tuning
+| Information | Details |
+|---|---|
+| Name | Phạm Trần Minh Khang |
+| Student ID | 3123411143 |
+| Class | DCT123C3 |
+| Course | Deep Learning |
+| University | Sai Gon University |
 
 ---
 
-## 📂 Labs
+## 📚 Coursework
 
-| # | Topic | Status |
-|---|---|---|
-| 01 | Introduction to Deep Learning | ⏳ |
-| 02 | Neural Network | ⏳ |
-| 03 | Backpropagation | ⏳ |
-| 04 | Convolutional Neural Network | ⏳ |
-| 05 | Recurrent Neural Network | ⏳ |
-| 06 | Transfer Learning | ⏳ |
+This section contains assignments, laboratory exercises,
+and other coursework completed throughout the course.
+
+| Code | Assignment | Type | Status |
+|---|---|---|---|
+| LAB01 | Làm quen với Python | Group Lab | 🔄 |
+| EX-LT01 | Đọc paper về học sâu | Individual | ✅ |
+| DL02 | Kaggle Competition | Competition | 🔄 |
+
+👉 [View Coursework](./coursework/)
 
 ---
 
-## 🛠️ Technologies
+## 📖 Lectures
+
+Materials and documents provided during lectures.
+
+- [AI Overview](./lectures/AI-overview/)
+- [Deep Learning Overview](./lectures/Deep-Learning-overview/)
+
+👉 [View Lectures](./lectures/)
+
+---
+
+## 📝 Personal Notes
+
+Personal notes and summaries created during the learning process.
+
+👉 [View Notes](./resources/notes/)
+
+---
+
+## 🧪 Experiments
+
+Independent experiments and additional implementations
+outside regular coursework.
+
+👉 [View Experiments](./experiments/)
+
+---
+
+## 🚀 Projects
+
+Larger projects developed throughout the course.
+
+👉 [View Projects](./projects/)
+
+---
+
+## 📚 References
+
+Papers, books, websites, and other learning resources.
+
+👉 [View References](./resources/references/)
+
+---
+
+## 🛠️ Tools & Technologies
 
 - Python
+- Jupyter Notebook
 - NumPy
 - Pandas
 - Matplotlib
 - Scikit-learn
 - PyTorch
-- Jupyter Notebook
+- Git & GitHub
 
 ---
 
-## 📁 Repository Structure
+## 📈 Progress
 
-```text
-deep-learning-labs/
-│
-├── 01-introduction/
-├── 02-neural-network/
-├── 03-backpropagation/
-├── 04-cnn/
-├── 05-rnn/
-├── 06-transfer-learning/
-│
-├── experiments/
-├── projects/
-└── resources/
+This repository is continuously updated throughout the course.
+
+> Learn → Practice → Experiment → Build
