@@ -25,7 +25,7 @@ and other coursework completed throughout the course.
 |---|---|---|---|
 | LAB01 | Làm quen với Python | Group Lab | 🔄 |
 | EX-LT01 | Đọc paper về học sâu | Individual | ✅ |
-| DL02 | Kaggle Competition | Competition | 🔄 |
+| Lab02 |  Làm quen với Pytorch | Individual | ✅ |
 
 👉 [View Coursework](./coursework/)
 
